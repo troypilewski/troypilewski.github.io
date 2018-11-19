@@ -1,3 +1,6 @@
+.navbar .container .row {
+    width: 100%;
+}
 .navbar-brand {
     padding: 0 0 0 55px;
     text-transform: uppercase;
